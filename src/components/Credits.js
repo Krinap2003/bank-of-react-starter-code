@@ -10,7 +10,6 @@ const Credits = (props) => {
   return (
     <div>
       <h1>Credits</h1>
-      <h1>Credits</h1>
       <br/>
       <Link to="/">Return to Home</Link>
     </div>
